@@ -30,6 +30,7 @@ You can install the SDK either locally or globally.
 
     pip install <path_to_vottun_python_sdk>
 
+If you dont want to insta the sdk you could just place your scripts in the root folder of the sdk and import the files, like shown in the example_usage.py file.
 
 ## Usage
 
